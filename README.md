@@ -1,8 +1,23 @@
 # awesome-tech-blogs
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wolffaxn/awesome-tech-blogs/master.svg)](https://github.com/wolffaxn/awesome-tech-blogs)
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [About](#about)
+- [Company Blogs](#company-blogs)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## About
+
 This is a curated list of technology and engineering blogs I follow. 
 
-### Company Blogs
+## Company Blogs
 
 * [Adesso Blog](https://www.adesso.de/de/news/blog/index.jsp)
 * [Amazon Developer Blog](https://developer.amazon.com/de/blogs)
@@ -25,6 +40,6 @@ This is a curated list of technology and engineering blogs I follow.
 * [Uber Engineering Blog](https://eng.uber.com)
 * [Zalando Tech Blog](https://jobs.zalando.com/tech/blog)
 
-### License
+## License
 
 Licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
