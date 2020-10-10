@@ -30,4 +30,4 @@
 
 ## License
 
-Licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Released under the Creative Commons Attribution-ShareAlike 4.0 International License. See [license](LICENSE.txt) for details.
