@@ -13,6 +13,7 @@
 - [Bee42 Blog](https://bee42.com/de/blog)
 - [Cloudera Blog](https://blog.cloudera.com)
 - [Codecentric Blog](https://blog.codecentric.de)
+- [Cryptsus Security Blog](https://cryptsus.com/blog)
 - [EUROPACE behind the scenes](https://tech.europace.de)
 - [Facebook Engineering Blog](https://engineering.fb.com)
 - [GitHub Engineering](https://github.blog/category/engineering)
