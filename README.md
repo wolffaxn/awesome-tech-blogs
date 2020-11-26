@@ -9,6 +9,7 @@
 
 - [Adesso Blog](https://www.adesso.de/de/news/blog/index.jsp)
 - [Amazon Developer Blog](https://developer.amazon.com/de/blogs)
+- [Ardan Labs Blog](https://www.ardanlabs.com/blog)
 - [Atlassian Developer Blog](https://blog.developer.atlassian.com)
 - [Bee42 Blog](https://bee42.com/de/blog)
 - [Cloudera Blog](https://blog.cloudera.com)
